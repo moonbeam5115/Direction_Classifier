@@ -1,4 +1,5 @@
 tensorflow
 matplotlib
 pandas
+boto3
 s3fs
